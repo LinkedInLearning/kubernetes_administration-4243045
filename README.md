@@ -1,6 +1,6 @@
-# Nom final de la formation
+# Kubernetes : L'administration
 
-Ce dossier Repository est lié au cours `Nom final de la formation`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
+Ce dossier Repository est lié au cours `Kubernetes : L'administration`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
 
 ![Nom final de la formation][lil-thumbnail-url] 
 
@@ -33,7 +33,7 @@ La branche master correspond au code à la fin de la formation.
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQGqBOsStTpa5Q/learning-public-crop_675_1200/B4EZapsm2NGYAY-/0/1746603765437?e=2147483647&v=beta&t=IaW3Ekhbb3qOfUzbzTPdaMtAMRKBvj7Qe__4e51-s6o
 [lil-URL-trainer]: https://
 
 [1]: # (End of FR-Instruction ###############################################################################################)
