@@ -8,7 +8,7 @@ Découvrez ce cours avancé sur l'administration de Kubernetes, conçu pour les 
 
 ### Formateur
 
-**Nom du formateur** 
+**Samir Lakhdari** 
 
  Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
