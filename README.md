@@ -4,7 +4,7 @@ Ce dossier Repository est lié au cours `Nom final de la formation`. Le cours en
 
 ![Nom final de la formation][lil-thumbnail-url] 
 
-DESCRIPTION DE LA FORMATION
+Découvrez ce cours avancé sur l'administration de Kubernetes, conçu pour les professionnels souhaitant approfondir leurs compétences en orchestration de conteneurs. Ce cours, animé par Samir Lakhdari, vous plonge dans Kubernetes, souvent abrégé en « k8s » ou « kube », une plateforme open source qui automatise le déploiement, la gestion et la mise à l'échelle des applications conteneurisées. Vous explorerez des sujets essentiels tels que la surveillance et la journalisation avec des outils comme Prometheus et ELK Stack, la mise en œuvre des meilleures pratiques de sécurité, ainsi que les techniques de sauvegarde et de restauration des données. Vous apprendrez également à identifier et à résoudre les problèmes courants dans les clusters Kubernetes, garantissant ainsi une gestion efficace et sécurisée de vos environnements de production.
 
 ## Instructions
 
