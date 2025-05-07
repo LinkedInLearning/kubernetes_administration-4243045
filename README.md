@@ -32,8 +32,8 @@ La branche master correspond au code à la fin de la formation.
  Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
+[lil-course-url]: https://www.linkedin.com/learning/kubernetes-l-administration
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQGqBOsStTpa5Q/learning-public-crop_675_1200/B4EZapsm2NGYAY-/0/1746603765437?e=2147483647&v=beta&t=IaW3Ekhbb3qOfUzbzTPdaMtAMRKBvj7Qe__4e51-s6o
-[lil-URL-trainer]: https://
+[lil-URL-trainer]: https://www.linkedin.com/learning/instructors/samir-lakhdari
 
 [1]: # (End of FR-Instruction ###############################################################################################)
